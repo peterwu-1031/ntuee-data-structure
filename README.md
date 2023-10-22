@@ -1,4 +1,4 @@
-# NTUEE Data Structure HW
+# NTUEE Data Structure Assignments
 ## Weighted-Edge Shortest Path Problem
 ### The problem is described in Introduction.pdf.
 ## How it works:
